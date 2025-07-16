@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pandas
+SQLAlchemy
+scikit-learn
+psycopg2
+twilio
+python-dotenv
+gunicorn
